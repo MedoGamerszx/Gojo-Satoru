@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
 //                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 Marco 
 //
 //════════════════════════════//
 
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6703061285461']
-global.premium = ['6703061285461']
-global.ownernomer = '6703061285461'
-global.ownername = '( Ḟệŕ3öń )'
-global.botname = '( Ḟệŕ3öń )'
-global.footer = '( Ḟệŕ3öń )'
+global.owner = ['01554277303']
+global.premium = ['01554277303']
+global.ownernomer = '01554277303'
+global.ownername = '( Marco )'
+global.botname = '( Marco )'
+global.footer = '( Marco )'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
+global.region = 'Egyp, South Sinai, ELArish'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
 global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
 global.packname = 'https://Wa.Me/+6703061285461'
-global.author = '[ Ḟệŕ3öń ]'
+global.author = '[ Marco ]'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
